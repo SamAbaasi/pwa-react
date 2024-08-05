@@ -4,6 +4,8 @@ import {ToastContainer, Zoom} from "react-toastify";
 import Notification from "./firebaseNotifications/Notification";
 
 function App() {
+  console.log("test");
+  
   return (
     <div className="App">
       <ToastContainer
